@@ -2,6 +2,9 @@
 
 Bienvenue dans le projet **AI-Télérélément**, une solution intelligente dédiée à la commande de dispositifs à distance en intégrant les techniques d'intelligence artificielle. Ce projet vise à automatiser, optimiser et sécuriser les opérations de télérélément dans divers domaines (agriculture, industrie, domotique, etc.).
 
+
+<img width="1025" height="492" alt="image" src="https://github.com/user-attachments/assets/df0203d1-074d-4615-a69f-af83f6e24353" />
+
 ## 🧠 Objectif du Projet
 
 Ce projet explore l’utilisation de l’intelligence artificielle pour :
